@@ -1,1 +1,1 @@
-# Home-lab-environment
+Built a two-machine lab environment (Windows + Ubuntu) using VirtualBox; configured static networking and cross-platform file sharing, and diagnosed and resolved a network configuration issue causing intermittent connectivity loss between machines.
